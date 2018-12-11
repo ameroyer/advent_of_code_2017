@@ -1,6 +1,6 @@
 # Advent of Code 2017  ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/ameroyer/advent_of_code_2017.svg) 
 
-My OCaml solution to Advent of Code 2017. [More information about the challenge here](https://adventofcode.com/2017)
+My OCaml solution to Advent of Code 2017. [More information about the challenge here.](https://adventofcode.com/2017)
 
 > **Advent of Code** is an Advent calendar of **small programming puzzles** for a variety of skill sets and skill levels that can be solved in any programming language you like. 
 People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other
