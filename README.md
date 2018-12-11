@@ -7,7 +7,7 @@ People use them as a speed contest, interview prep, company training, university
 
 ---
 
-  * [X] 🎅 [Day 1](https://github.com/ameroyer/advent_of_code_2017/blob/master/day1.ipynb)
+  * [X] 🎅 [Day 1](https://github.com/ameroyer/advent_of_code_2017/blob/master/day1.ml)
   * [ ] 🎁 Day 2
   * [ ] 🎄 Day 3
   * [ ] 🌠 Day 4
