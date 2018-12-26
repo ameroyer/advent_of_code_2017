@@ -5,29 +5,60 @@ My OCaml solution to Advent of Code 2017. [More information about the challenge 
 > **Advent of Code** is an Advent calendar of **small programming puzzles** for a variety of skill sets and skill levels that can be solved in any programming language you like. 
 People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other
 
----
+<table style='text-align:center'>
+<tr>
+<td colspan="5" align='center'><b>Links to Solutions</b></td>
+</tr>
 
-  * [X] 🎅 [Day 1](https://github.com/ameroyer/advent_of_code_2017/blob/master/day01.ml)
-  * [ ] 🎁 Day 2
-  * [ ] 🎄 Day 3
-  * [ ] 🌠 Day 4
-  * [ ] 🍰 Day 5
-  * [ ] ☃️ Day 6
-  * [ ] ❄️ Day 7
-  * [ ] ✨ Day 8
-  * [ ] 💗 Day 9 
-  * [ ] 🍬 Day 10
-  * [ ] ⛄ Day 11
-  * [ ] 🎆 Day 12
-  * [ ] 🍭 Day 13
-  * [ ] ☕ Day 14
-  * [ ] 🌰 Day 15
-  * [ ] 🎶 Day 16
-  * [ ] 🏂 Day 17
-  * [ ] 🍠 Day 18
-  * [ ] 🍫 Day 19
-  * [ ] 👪 Day 20
-  * [ ] 🍪 Day 21
-  * [ ] 🎀 Day 22
-  * [ ] 💤 Day 23
-  * [ ] 🎉 Day 24
+<tr>
+<td>
+<ul>
+<li> [X] 🎅 <a href="https://github.com/ameroyer/advent_of_code_2017/blob/master/day01.ml">Day 1</a>
+<li> [X] 🎁 <a href="https://github.com/ameroyer/advent_of_code_2017/blob/master/day02.ml">Day 2</a>
+<li> [ ] 🎄 Day 3
+<li> [ ] 🌠 Day 4
+<li> [ ] 🍰 Day 5
+</ul>
+</td>
+
+<td>
+<ul>
+<li> [ ] ☃️ Day 6
+<li> [ ] ❄️ Day 7
+<li> [ ] ✨ Day 8
+<li> [ ] 💗 Day 9
+<li> [ ] 🍬 Day 10
+</ul>
+</td>
+
+<td>
+<ul>
+<li> [ ] ⛄ Day 11
+<li> [ ] 🎆 Day 12
+<li> [ ] 🍭 Day 13
+<li> [ ] ☕ Day 14
+<li> [ ] 🌰 Day 15
+</ul>
+</td>
+
+<td>
+<ul>
+<li> [ ] 🎶 Day 16
+<li> [ ] 🏂 Day 17
+<li> [ ] 🍠 Day 18
+<li> [ ] 🍫 Day 19
+<li> [ ] 👪 Day 20
+</ul>
+</td>
+
+<td>
+<ul>
+<li> [ ] 🍪 Day 21
+<li> [ ] 🎀 Day 22
+<li> [ ] 💤 Day 23
+<li> [ ] 🎉 Day 24
+<li> [ ] 💫 Day 25
+</ul>
+</td>
+</tr>
+</table>
