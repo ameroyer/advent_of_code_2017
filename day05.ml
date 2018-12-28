@@ -53,7 +53,7 @@ let jump2 arr =
 
 
 (*Main*)
-(*ocamlopt -o day5 str.cmxa day05.ml; ./day5*)
+(*ocamlopt -o day5 dy05.ml; ./day5*)
 let () =
   let data = Array.of_list (parse_file "inputs/day5.txt") in
   let result = jump data in
