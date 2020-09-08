@@ -21,15 +21,21 @@ let rec solve_captcha l head = match l with
 (* Solve the Captcha of Part 2*)
 let rec solve_captcha2 l1 l2 = match l1, l2 with
   | [], [] -> 0
+  | [], t::q -> -1
+  | t::q, [] -> -1
   | t::q, s::r -> (if t == s then t else 0) + (solve_captcha2 q r);;
 
 
 (*Main*)
-let () = 
+
+(*ocamlopt -o day1 day01.ml; ./day1*)
+let () =
+  let file = open_in "inputs/day1.txt" in
   let data = str_to_ints (input_line file) in
   let result = solve_captcha data (List.hd data) in
   print_endline (Printf.sprintf "Captcha of Part 1: %d" result);
 
   let _, l1, l2 = split data ( (List.length data) / 2) in
   let result = solve_captcha2 data (l2@l1) in
-  print_endline (Printf.sprintf "Captcha of Part 2: %d" result);;  
+  print_endline (Printf.sprintf "Captcha of Part 2: %d" result);
+  close_in file;;
